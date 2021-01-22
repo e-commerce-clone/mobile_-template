@@ -266,3 +266,15 @@ body #header_purple  .cart_count {
     text-align: center;
     white-space: nowrap;
 }
+
+.menu_shortcut .on.shortcut_menu:before {
+    background-image: url(https://res.kurly.com/mobile/service/common/2011/ico_cate_on_v2.svg?ver=2);
+}
+
+.menu_shortcut .on.shortcut_home:before {
+    background-image: url(https://res.kurly.com/mobile/service/common/2011/ico_home_on.svg?ver=2);
+}
+
+.menu_shortcut .shortcut_mypage:before {
+    background-image: url(https://res.kurly.com/mobile/service/common/2011/ico_mypage.svg?ver=2);
+}
